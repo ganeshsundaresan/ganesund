@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganesh Sundaresan</h1>
 <h3 align="center">I am a Data Analyst working in Amazon related products and softwares with 6+ years of professional experience in the field of analytics. I have a deep understanding of the e-commerce domain and have worked with various departments within Amazon to develop strategic plans, launch new products and optimize existing ones. My expertise lies in using data to analyze customer behaviors, uncover trends, and recommend innovative solutions to meet business objectives. I am highly skilled in Business Intelligence(ETL, Reporting) using Informatica, SQL, PowerBI, Tableau , Impala , Bigdata , Python , AWS I am also adept at gathering, analyzing and interpreting large amounts of data to identify novel insights that can drive business decisions. I am a strategic thinker and problem-solver, with excellent communication and interpersonal skills, and a dedication to delivering high-quality results.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesund&label=Profile%20views&color=0e75b6&style=flat" alt="ganesund" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganesund" alt="ganesund" /></a> </p>
 
 - 🔭 I’m currently working on [Spotify Analysis](https://public.tableau.com/app/profile/nashsundaresan/viz/SpotifyAnalysis_16833558629330/Dashboard1)
