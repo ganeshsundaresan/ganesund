@@ -42,4 +42,3 @@
   <img src="https://drive.google.com/uc?export=view&id=15Svqn-6SQhFnLyylCJaUTKf0UrFkbcdE" alt="Award 3" width="200">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganesund" alt="ganesund" /></a> </p>
