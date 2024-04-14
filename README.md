@@ -44,6 +44,7 @@
 <p align="left">
   <img src="https://drive.google.com/uc?export=view&id=1_Ntn0XEJy_liLmygdY3Q4e4Z1qTCMzPJ" alt="Award 1" width="200">
   <img src="https://drive.google.com/uc?export=view&id=1zvW_ZsOQEHZ5xp8ftknBkxF9mNSJvGiZ" alt="Award 2" width="200">
+  <img src="https://drive.google.com/uc?export=view&id=10Cpp67Hp9FzBy8SKqhCBmWBnipXl72U1" alt="Award 2" width="200">
   
 </p>
 
