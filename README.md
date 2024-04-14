@@ -32,14 +32,14 @@
 
 <h3 align="left">Certifications and Awards:</h3>
 <p align="left">
-  <img src="https://drive.google.com/file/d/10dF-g-wJugAKzGG-q6J7elUWHAy0f0HK/view?usp=drive_link" alt="Certificate 1" width="200">
-  <img src="https://drive.google.com/file/d/15Svqn-6SQhFnLyylCJaUTKf0UrFkbcdE/view?usp=drive_link" alt="Certificate 2" width="200">
-  <img src="https://drive.google.com/file/d/1nKkXWsMIrYfpEX_l2ynrUsTZJ3_efg31/view?usp=drive_link" alt="Certificate 3" width="200">
-  <img src="https://drive.google.com/file/d/1Lzk5adJr6bB_zTTSYUHIOwQII-YP-iOb/view?usp=drive_link" alt="Certificate 4" width="200">
-  <img src="https://drive.google.com/file/d/1Y_u4tzvTvNMg82-jHyWnXzzMykJDJJML/view?usp=drive_link" alt="Certificate 5" width="200">
-  <img src="https://drive.google.com/file/d/1_Ntn0XEJy_liLmygdY3Q4e4Z1qTCMzPJ/view?usp=drive_link" alt="Award 1" width="200">
-  <img src="https://drive.google.com/file/d/1zvW_ZsOQEHZ5xp8ftknBkxF9mNSJvGiZ/view?usp=drive_link" alt="Award 2" width="200">
-  <img src="https://drive.google.com/file/d/15Svqn-6SQhFnLyylCJaUTKf0UrFkbcdE/view?usp=drive_link" alt="Award 3" width="200">
+  <img src="https://drive.google.com/uc?export=view&id=10dF-g-wJugAKzGG-q6J7elUWHAy0f0HK" alt="Certificate 1" width="200">
+  <img src="https://drive.google.com/uc?export=view&id=15Svqn-6SQhFnLyylCJaUTKf0UrFkbcdE" alt="Certificate 2" width="200">
+  <img src="https://drive.google.com/uc?export=view&id=1nKkXWsMIrYfpEX_l2ynrUsTZJ3_efg31" alt="Certificate 3" width="200">
+  <img src="https://drive.google.com/uc?export=view&id=1Lzk5adJr6bB_zTTSYUHIOwQII-YP-iOb" alt="Certificate 4" width="200">
+  <img src="https://drive.google.com/uc?export=view&id=1Y_u4tzvTvNMg82-jHyWnXzzMykJDJJML" alt="Certificate 5" width="200">
+  <img src="https://drive.google.com/uc?export=view&id=1_Ntn0XEJy_liLmygdY3Q4e4Z1qTCMzPJ" alt="Award 1" width="200">
+  <img src="https://drive.google.com/uc?export=view&id=1zvW_ZsOQEHZ5xp8ftknBkxF9mNSJvGiZ" alt="Award 2" width="200">
+  <img src="https://drive.google.com/uc?export=view&id=15Svqn-6SQhFnLyylCJaUTKf0UrFkbcdE" alt="Award 3" width="200">
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganesund" alt="ganesund" /></a> </p>
