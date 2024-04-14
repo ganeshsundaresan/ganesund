@@ -39,11 +39,11 @@
   <img src="https://drive.google.com/uc?export=view&id=1EtPoxNwLcFtLtGZVJNUGwK2ij8ocfGW2" alt="Certificate 6" width="200">
   <img src="https://drive.google.com/uc?export=view&id=141DWmzaFp-W-JbgGantsHeVWuAjf39M5" alt="Certificate 7" width="200">
   <img src="https://drive.google.com/uc?export=view&id=15Svqn-6SQhFnLyylCJaUTKf0UrFkbcdE" alt="Certificate 8" width="200">
-  <img src="https://drive.google.com/uc?export=view&id=15Svqn-6SQhFnLyylCJaUTKf0UrFkbcdE" alt="Certificate 9" width="200">
+  <img src="https://drive.google.com/uc?export=view&id=1UOXOOa1zkJJsvvfV4uZZ3L6K6MD_8K7v" alt="Certificate 9" width="200">
 <h3 align="left">Awards:</h3>
 <p align="left">
   <img src="https://drive.google.com/uc?export=view&id=1_Ntn0XEJy_liLmygdY3Q4e4Z1qTCMzPJ" alt="Award 1" width="200">
   <img src="https://drive.google.com/uc?export=view&id=1zvW_ZsOQEHZ5xp8ftknBkxF9mNSJvGiZ" alt="Award 2" width="200">
-  <img src="https://drive.google.com/uc?export=view&id=15Svqn-6SQhFnLyylCJaUTKf0UrFkbcdE" alt="Award 3" width="200">
+  
 </p>
 
