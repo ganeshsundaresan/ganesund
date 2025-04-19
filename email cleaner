@@ -1,0 +1,64 @@
+function cleanUpInboxAndTabs() {
+  const categories = [
+    'category:updates',
+    'category:forums',
+    'category:promotions',
+    'category:social',
+    'in:inbox'
+  ];
+
+  const allThreads = [];
+
+  categories.forEach(category => {
+    const threads = GmailApp.search(`${category} -is:starred`); // skip starred
+    allThreads.push(...threads);
+  });
+
+  Logger.log("🔍 Total threads to review: " + allThreads.length);
+
+  allThreads.forEach(thread => {
+    const messages = thread.getMessages();
+    let keepThread = false;
+
+    for (let message of messages) {
+      const subject = message.getSubject();
+      const body = message.getPlainBody();
+      const content = (subject + ' ' + body).toLowerCase();
+
+      if (isStudyRelated(content)) {
+        keepThread = true;
+        break; // no need to keep checking this thread
+      }
+    }
+
+    if (!keepThread) {
+      thread.moveToTrash();
+      Logger.log("🗑️ Deleted thread (not study-related): " + thread.getFirstMessageSubject());
+    } else {
+      Logger.log("✅ Kept thread (study-related): " + thread.getFirstMessageSubject());
+    }
+  });
+
+  Logger.log("🚀 Inbox + tabs cleanup complete.");
+}
+
+function isStudyRelated(content) {
+  if (!content || typeof content !== 'string') return false;
+
+  const keywords = [
+    "university", "universities",
+    "college", "colleges",
+    "bachelor", "bachelors",
+    "master", "masters",
+    "degree", "degrees",
+    "admission", "admissions",
+    "scholarship", "scholarships",
+    "campus", "campuses",
+    "education", "educational",
+    "pg program", "postgraduate",
+    "mba", "course", "courses", "online course", "online classes",
+    "coursera", "upgrad", "edx", "khan academy", "learning", "syllabus", "lectures"
+  ];
+
+  return keywords.some(keyword => content.includes(keyword));
+}
