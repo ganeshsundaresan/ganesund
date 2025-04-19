@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganesund" alt="ganesund" /></a> </p>
 
-- 🔭 I am currently engaged in a [Spotify Analysis Project](https://public.tableau.com/app/profile/nashsundaresan/viz/SpotifyAnalysis_16833558629330/Dashboard1).
+- 🔭 I have a  [Spotify Analysis Project](https://public.tableau.com/app/profile/nashsundaresan/viz/SpotifyAnalysis_16833558629330/Dashboard1).
 
-- 🌱 I am committed to continuous learning and expanding my expertise in **MySQL, Google BigQuery, Tableau, Microsoft Power BI, and Data Engineering.**
+- 🌱 I am committed to continuous learning and expanding my expertise in **SQL, Snowflake,Looker, Google BigQuery, Tableau, Microsoft Power BI, and Data Engineering.**
 
 - 👯 I welcome collaboration opportunities and can be reached via [https://github.com/ganesund](https://github.com/ganesund).
 
